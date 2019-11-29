@@ -1,4 +1,4 @@
---Create table. For example, employee.
+--Create table. For examples, employees.
 CREATE TABLE employee(
    ID INT PRIMARY KEY     NOT NULL,
    NAME           TEXT    NOT NULL,
