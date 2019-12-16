@@ -1,4 +1,5 @@
 --To insert data use the INSERT INTO keywords. For example, to insert data into table students
+--
  INSERT INTO students (id, name, address, age)
  VALUES (1, 'John Doe', '123 Main Street', 34);
  
